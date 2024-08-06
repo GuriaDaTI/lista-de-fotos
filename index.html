@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Fotos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Lista de Fotos</h1>
+        <div class="input-group">
+            <input type="text" id="photo-url" placeholder="Insira a URL da foto ou endereço da imagem">
+            <button id="add-photo-btn">Adicionar URL</button>
+        </div>
+        <div class="input-group">
+            <input type="file" id="photo-file" accept="image/*">
+            <button id="upload-photo-btn">Upload do Computador</button>
+        </div>
+        <div class="photo-gallery" id="photo-gallery"></div>
+    </div>
+    <script src="java.js"></script>
+</body>
+</html>
