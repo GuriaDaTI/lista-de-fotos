@@ -1,5 +1,5 @@
 # Desafio 30 Dias / 30 Projetos
-# Dia 5 Lista de fotos 
+# Dia 5 Lista de fotos 📸🤳
 # Meu código:
 ![Captura de tela 2024-08-06 102653](https://github.com/user-attachments/assets/cea2e510-50f7-4fe3-b26d-6b8ef0a06d94)
 ![Captura de tela 2024-08-06 103208](https://github.com/user-attachments/assets/c8c4225d-cdcc-4ebc-99e5-748bb38d6b9e)
